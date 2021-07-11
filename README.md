@@ -1,5 +1,6 @@
 # STM32 Live Stream Car
-Author: Yih Cheng, Mu-Ruei Tseng
+Yih Cheng (https://github.com/chengyih001)
+Mu-Ruei Tseng (https://github.com/Morris88826)
 
 ![](https://i.imgur.com/oDeRqRS.jpg)
 
