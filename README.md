@@ -1,6 +1,6 @@
 # STM32 Live Stream Car
-Yih Cheng (https://github.com/chengyih001) <br>
-Mu-Ruei Tseng (https://github.com/Morris88826)
+Yih CHENG (https://github.com/chengyih001) <br>
+Mu-Ruei TSENG (https://github.com/Morris88826)
 
 ## Results
 ![](https://i.imgur.com/oDeRqRS.jpg)
